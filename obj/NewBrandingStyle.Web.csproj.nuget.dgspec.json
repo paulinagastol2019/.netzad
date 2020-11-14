@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\48503\\source\\repos\\NewBrandingStyle\\NewBrandingStyle.Web\\NewBrandingStyle.Web.csproj": {}
+    "C:\\Users\\48503\\Desktop\\.net\\.netzad\\NewBrandingStyle.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\48503\\source\\repos\\NewBrandingStyle\\NewBrandingStyle.Web\\NewBrandingStyle.Web.csproj": {
+    "C:\\Users\\48503\\Desktop\\.net\\.netzad\\NewBrandingStyle.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\48503\\source\\repos\\NewBrandingStyle\\NewBrandingStyle.Web\\NewBrandingStyle.Web.csproj",
+        "projectUniqueName": "C:\\Users\\48503\\Desktop\\.net\\.netzad\\NewBrandingStyle.Web.csproj",
         "projectName": "NewBrandingStyle.Web",
-        "projectPath": "C:\\Users\\48503\\source\\repos\\NewBrandingStyle\\NewBrandingStyle.Web\\NewBrandingStyle.Web.csproj",
+        "projectPath": "C:\\Users\\48503\\Desktop\\.net\\.netzad\\NewBrandingStyle.Web.csproj",
         "packagesPath": "C:\\Users\\48503\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\48503\\source\\repos\\NewBrandingStyle\\NewBrandingStyle.Web\\obj\\",
+        "outputPath": "C:\\Users\\48503\\Desktop\\.net\\.netzad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -41,12 +41,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
-              "target": "Package",
-              "version": "[1.10.9, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

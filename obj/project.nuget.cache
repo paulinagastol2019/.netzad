@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4pkPayuXH2tScsR6zLejjjG3DPGlVxVv1eiSXjeKlSN5eMhHOU1Iv4GLxemqePGi6XlgNNfCdKUw8wRY9IlIpg==",
+  "dgSpecHash": "0sjDa+fSf8O9z3wb/2tGS8mGhjGYKkB5TuCV5z+3Eca91jZ6VPCKOU/0UAJAp2PUHAcxdhXVe/XAEVa8QqGOCg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\48503\\source\\repos\\NewBrandingStyle\\NewBrandingStyle.Web\\NewBrandingStyle.Web.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\48503\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\48503\\Desktop\\.net\\.netzad\\NewBrandingStyle.Web.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
