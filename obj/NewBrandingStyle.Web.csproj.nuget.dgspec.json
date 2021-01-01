@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\48503\\Desktop\\.net\\.netzad\\NewBrandingStyle.Web.csproj": {}
+    "C:\\Users\\48503\\Desktop\\WSEI\\Buzowicz - programowanie w .net\\.netzad\\NewBrandingStyle.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\48503\\Desktop\\.net\\.netzad\\NewBrandingStyle.Web.csproj": {
+    "C:\\Users\\48503\\Desktop\\WSEI\\Buzowicz - programowanie w .net\\.netzad\\NewBrandingStyle.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\48503\\Desktop\\.net\\.netzad\\NewBrandingStyle.Web.csproj",
+        "projectUniqueName": "C:\\Users\\48503\\Desktop\\WSEI\\Buzowicz - programowanie w .net\\.netzad\\NewBrandingStyle.Web.csproj",
         "projectName": "NewBrandingStyle.Web",
-        "projectPath": "C:\\Users\\48503\\Desktop\\.net\\.netzad\\NewBrandingStyle.Web.csproj",
+        "projectPath": "C:\\Users\\48503\\Desktop\\WSEI\\Buzowicz - programowanie w .net\\.netzad\\NewBrandingStyle.Web.csproj",
         "packagesPath": "C:\\Users\\48503\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\48503\\Desktop\\.net\\.netzad\\obj\\",
+        "outputPath": "C:\\Users\\48503\\Desktop\\WSEI\\Buzowicz - programowanie w .net\\.netzad\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

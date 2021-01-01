@@ -75,3 +75,12 @@ C:\Users\48503\Desktop\.net\.netzad\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web
 C:\Users\48503\Desktop\.net\.netzad\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.pdb
 C:\Users\48503\Desktop\.net\.netzad\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.genruntimeconfig.cache
 C:\Users\48503\Desktop\.net\.netzad\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.csproj.CopyComplete
+C:\Users\48503\Desktop\WSEI\Buzowicz - programowanie w .net\.netzad\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.csprojAssemblyReference.cache
+C:\Users\48503\Desktop\WSEI\Buzowicz - programowanie w .net\.netzad\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.AssemblyInfoInputs.cache
+C:\Users\48503\Desktop\WSEI\Buzowicz - programowanie w .net\.netzad\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.AssemblyInfo.cs
+C:\Users\48503\Desktop\WSEI\Buzowicz - programowanie w .net\.netzad\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.csproj.CoreCompileInputs.cache
+C:\Users\48503\Desktop\WSEI\Buzowicz - programowanie w .net\.netzad\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\48503\Desktop\WSEI\Buzowicz - programowanie w .net\.netzad\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.RazorAssemblyInfo.cache
+C:\Users\48503\Desktop\WSEI\Buzowicz - programowanie w .net\.netzad\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.RazorAssemblyInfo.cs
+C:\Users\48503\Desktop\WSEI\Buzowicz - programowanie w .net\.netzad\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.dll
+C:\Users\48503\Desktop\WSEI\Buzowicz - programowanie w .net\.netzad\obj\Debug\netcoreapp3.1\NewBrandingStyle.Web.pdb
