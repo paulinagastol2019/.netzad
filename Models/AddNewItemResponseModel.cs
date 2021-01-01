@@ -1,4 +1,4 @@
-﻿namespace Wsei.ExchangeThings.Web.Controllers
+﻿namespace WebApplication.Web.Controllers
 {
     public class AddNewItemResponseModel
     {

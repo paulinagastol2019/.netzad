@@ -3,8 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using WebApplication.Web.Models;
 
-namespace Wsei.ExchangeThings.Web.Controllers
+namespace WebApplication.Web.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]

@@ -4,9 +4,9 @@
     const msg = document.getElementById("msg");
     const form = document.forms[0];
     const addNewItem = async () => {
-      
+        // 1. read data from the form
         const requestData = JSON.stringify({ Name: document.getElementById("Name").value, Description: document.getElementById("Description").value, IsVisible: document.getElementById("IsVisible").checked });
-
+        // 2. call the application server using fetch method
         const url = "/api/item";
         const response = await fetch(url, {
             method: 'POST',

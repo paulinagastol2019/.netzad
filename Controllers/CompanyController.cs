@@ -1,32 +1,39 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+using WebApplication.Web.Filters;
 using WebApplication.Web.Models;
 
 namespace WebApplication.Web.Controllers
 {
-    public class CompanyController : Controller
+    public class ExchangesController : Controller
     {
-
-        public IActionResult Index()
+        [ServiceFilter(typeof(MyCustomActionFilter))]
+        public IActionResult Show(string id)
         {
             return View();
         }
-        [HttpPost]
 
-        public IActionResult Index(CompanyModel company)
+        [HttpGet]
+        public IActionResult Add()
         {
-            var viewModel = new CompanyAddedViewModel
-
-            {
-                NumberOfCharsInName = company.Name.Length,
-                NumberOfCharsInDescription = company.Description.Length,
-                IsHidden = !company.IsVisible
-            };
-            return View("CompanyAdded", viewModel);
+            return View();
         }
 
+        [HttpPost]
+        public IActionResult Add(ItemModel item)
+        {
+            var viewModel = new AddNewItemConfirmationViewModel
+            {
+                Id = 1,
+                Name = item.Name,
+            };
+
+            return RedirectToAction("AddConfirmation");
+        }
+
+        [HttpGet]
+        public IActionResult AddConfirmation()
+        {
+            return View();
+        }
     }
 }

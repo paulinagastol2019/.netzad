@@ -1,4 +1,4 @@
-﻿namespace Wsei.ExchangeThings.Web.Models
+﻿namespace WebApplication.Web.Models
 {
     public class ItemModel
     {
